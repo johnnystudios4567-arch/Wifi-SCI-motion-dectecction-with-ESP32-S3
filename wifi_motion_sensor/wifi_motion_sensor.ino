@@ -34,8 +34,8 @@ c:\Users\store\Downloads\wifi_motion_sensor\webpage.h
 #include "webpage.h"
 
 // ---------- CONFIG ----------
-const char* ssid     = "TP-Link_7CC5";
-const char* password = "50710362";
+const char* ssid     = "wifi name";
+const char* password = "you password";
 const unsigned long pushInterval = 150; // ms between graph updates sent to browser
 // -----------------------------
 
